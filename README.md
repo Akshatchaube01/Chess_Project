@@ -1,6 +1,6 @@
 # Project
 A new Open Source Project.
-let's brainstorm ideas and make something new. 
+Let's brainstorm ideas and make something new. 
 **Project name yet to be decided
 
 **Project ID**
