@@ -20,3 +20,5 @@ let's brainstorm ideas and make something new.
 **features**
 
 **Language used**
+
+** bugs fixes**
