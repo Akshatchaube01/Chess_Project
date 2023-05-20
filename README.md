@@ -19,4 +19,4 @@ let's brainstorm ideas and make something new.
 
 **features**
 
-**language used**
+**Language used**
