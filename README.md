@@ -24,3 +24,5 @@ let's brainstorm ideas and make something new.
 **Language used**
 
 ** bugs fixes**
+**Mobile Responsiveness**
+**Feedback & Instructions**
