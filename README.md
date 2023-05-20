@@ -1,2 +1,2 @@
 # Project
-A new open source project 
+A new Open source project 
