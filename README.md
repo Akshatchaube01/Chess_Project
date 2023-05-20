@@ -1,5 +1,5 @@
 # Project
-A new Open source project.
+A new Open Source Project.
 let's brainstorm ideas and make something new. 
 **Project name yet to be decided
 
