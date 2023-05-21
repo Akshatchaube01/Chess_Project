@@ -28,3 +28,4 @@ Let's brainstorm ideas and make something new.
 **Mobile Responsiveness**
 
 **Feedback & Instructions**
+**what problem it solves**
