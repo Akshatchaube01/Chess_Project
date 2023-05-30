@@ -1,9 +1,7 @@
-# Project
+# Project- Chess.com Clone
 A new Open Source Project.
-Let's brainstorm ideas and make something new. 
-**Project name yet to be decided
-
-**Project ID**
+Let's brainstorm ideas and learn new technologies
+**Chess_Project
 
 **Project Title**
   
